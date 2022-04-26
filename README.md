@@ -1,0 +1,2 @@
+# Diaspora-Jem
+Naviga Memorandum 
